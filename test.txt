@@ -1,1 +1,5 @@
+<<<<<<< HEAD
  test test test
+=======
+test # add a line
+>>>>>>> e3bbfd40b8313c9e3b7c0c3d01786b31580dc488
